@@ -1,29 +1,29 @@
 class Solution {
-    void solve(vector<string>& ans,string str,int o,int c){
-        if(c==0 and o==0){
-            ans.push_back(str);
-            return;
-        }
-        if(c<o){
-            return;
-        }
-        if(o!=0){
-            str.push_back('(');
-            solve(ans,str,o-1,c);
-            str.pop_back();
-        }
-        if(c!=0){
-            str.push_back(')');
-            solve(ans,str,o,c-1);
-        }
-    }
 public:
     vector<string> generateParenthesis(int n) {
-        vector<string> ans;
-        string str="(";
-        int o=n-1;
-        int c=n;
-        solve(ans,str,o,c);
-        return ans;
+        vector<string> result;
+        string current;  // Use a string to track the current combination
+        generateParenthesisHelper(result, current, n, n);
+        return result;
+    }
+
+private:
+    void generateParenthesisHelper(vector<string>& result, string& current, int openCount, int closeCount) {
+        if (openCount == 0 && closeCount == 0) {
+            result.push_back(current);
+            return;
+        }
+
+        if (openCount > 0) {
+            current.push_back('(');
+            generateParenthesisHelper(result, current, openCount - 1, closeCount);
+            current.pop_back();
+        }
+
+        if (closeCount > openCount) {
+            current.push_back(')');
+            generateParenthesisHelper(result, current, openCount, closeCount - 1);
+            current.pop_back();
+        }
     }
 };
