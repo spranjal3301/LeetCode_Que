@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-         map<int,multiset<int>> mms;
+         vector<multiset<int>> mms(32);
 
         for(int i=0;i<arr.size();i++){
             int count=0;
@@ -11,7 +11,7 @@ public:
         }
         int i=0;
         for(auto &m:mms){
-            for(auto &ms:m.second){
+            for(auto &ms:m){
                 arr[i]=ms;
                 i++;
             }
