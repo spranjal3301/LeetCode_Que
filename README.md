@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
+| [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/spranjal3301/LeetCode_Que/tree/master/0859-design-circular-deque) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Hash Table
@@ -41,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
+## Matrix
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
