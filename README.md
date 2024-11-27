@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/spranjal3301/LeetCode_Que/tree/master/0859-design-circular-deque) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,8 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
