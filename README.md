@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1558-course-schedule-iv](https://github.com/spranjal3301/LeetCode_Que/tree/master/1558-course-schedule-iv) |
 ## Trie
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
+| [1558-course-schedule-iv](https://github.com/spranjal3301/LeetCode_Que/tree/master/1558-course-schedule-iv) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -58,9 +60,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/spranjal3301/LeetCode_Que/tree/master/1558-course-schedule-iv) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/spranjal3301/LeetCode_Que/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/spranjal3301/LeetCode_Que/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
