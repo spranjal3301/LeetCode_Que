@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/spranjal3301/LeetCode_Que/tree/master/0859-design-circular-deque) |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/spranjal3301/LeetCode_Que/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-design-circular-deque](https://github.com/spranjal3301/LeetCode_Que/tree/master/0859-design-circular-deque) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -80,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -89,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/spranjal3301/LeetCode_Que/tree/master/2564-most-profitable-path-in-a-tree) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
