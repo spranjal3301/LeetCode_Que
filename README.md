@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/spranjal3301/LeetCode_Que/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3483-alternating-groups-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [3483-alternating-groups-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
