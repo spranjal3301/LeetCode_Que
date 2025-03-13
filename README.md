@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/spranjal3301/LeetCode_Que/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3483-alternating-groups-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/spranjal3301/LeetCode_Que/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3643-zero-array-transformation-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/spranjal3301/LeetCode_Que/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3643-zero-array-transformation-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -102,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3483-alternating-groups-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
