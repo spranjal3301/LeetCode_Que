@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
+| [1500-count-largest-group](https://github.com/spranjal3301/LeetCode_Que/tree/master/1500-count-largest-group) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/spranjal3301/LeetCode_Que/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/spranjal3301/LeetCode_Que/tree/master/1500-count-largest-group) |
 ## Data Stream
 |  |
 | ------- |
