@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/spranjal3301/LeetCode_Que/tree/master/0015-3sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
@@ -114,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3643-zero-array-transformation-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/spranjal3301/LeetCode_Que/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/spranjal3301/LeetCode_Que/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
