@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/spranjal3301/LeetCode_Que/tree/master/0859-design-circular-deque) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/spranjal3301/LeetCode_Que/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/spranjal3301/LeetCode_Que/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Graph
 |  |
 | ------- |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/spranjal3301/LeetCode_Que/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
