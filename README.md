@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/spranjal3301/LeetCode_Que/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/spranjal3301/LeetCode_Que/tree/master/0037-sudoku-solver) |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/spranjal3301/LeetCode_Que/tree/master/0037-sudoku-solver) |
 | [0380-insert-delete-getrandom-o1](https://github.com/spranjal3301/LeetCode_Que/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/spranjal3301/LeetCode_Que/tree/master/0560-subarray-sum-equals-k) |
 | [1500-count-largest-group](https://github.com/spranjal3301/LeetCode_Que/tree/master/1500-count-largest-group) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/spranjal3301/LeetCode_Que/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/spranjal3301/LeetCode_Que/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Graph
@@ -129,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/spranjal3301/LeetCode_Que/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
