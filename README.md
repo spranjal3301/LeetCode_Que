@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/spranjal3301/LeetCode_Que/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/spranjal3301/LeetCode_Que/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/spranjal3301/LeetCode_Que/tree/master/1477-product-of-the-last-k-numbers) |
+| [1917-maximum-average-pass-ratio](https://github.com/spranjal3301/LeetCode_Que/tree/master/1917-maximum-average-pass-ratio) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/spranjal3301/LeetCode_Que/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/spranjal3301/LeetCode_Que/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/spranjal3301/LeetCode_Que/tree/master/3483-alternating-groups-ii) |
@@ -136,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/spranjal3301/LeetCode_Que/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/spranjal3301/LeetCode_Que/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/spranjal3301/LeetCode_Que/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
